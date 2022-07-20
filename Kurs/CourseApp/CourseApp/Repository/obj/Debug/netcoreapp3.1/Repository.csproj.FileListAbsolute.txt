@@ -1,0 +1,5 @@
+C:\Users\Aykhanvn\Desktop\Kurs\CourseApp\CourseApp\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\Users\Aykhanvn\Desktop\Kurs\CourseApp\CourseApp\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aykhanvn\Desktop\Kurs\CourseApp\CourseApp\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\Aykhanvn\Desktop\Kurs\CourseApp\CourseApp\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\Aykhanvn\Desktop\Kurs\CourseApp\CourseApp\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
