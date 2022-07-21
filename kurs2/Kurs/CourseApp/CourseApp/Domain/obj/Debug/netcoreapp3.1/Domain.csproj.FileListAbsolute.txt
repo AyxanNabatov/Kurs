@@ -1,0 +1,10 @@
+C:\Users\Aykhanvn\Desktop\Kurs\CourseApp\CourseApp\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\Aykhanvn\Desktop\Kurs\CourseApp\CourseApp\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aykhanvn\Desktop\Kurs\CourseApp\CourseApp\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Aykhanvn\Desktop\Kurs\CourseApp\CourseApp\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Aykhanvn\Desktop\Kurs\CourseApp\CourseApp\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\aykhanvn\Desktop\kurs2\Kurs\CourseApp\CourseApp\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\aykhanvn\Desktop\kurs2\Kurs\CourseApp\CourseApp\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aykhanvn\Desktop\kurs2\Kurs\CourseApp\CourseApp\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\aykhanvn\Desktop\kurs2\Kurs\CourseApp\CourseApp\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\aykhanvn\Desktop\kurs2\Kurs\CourseApp\CourseApp\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
